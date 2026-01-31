@@ -3,5 +3,6 @@
 
 Я протестировал все методы, которые предусмотрены для https://petstore.swagger.io/ в Postman, и создал соответствующие коллекции:
 1. Коллекция Postman для petstore: REST
+
 Используя следующий [<a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a>](#) я создал рабочую коллекцию в Postman, которую можно использовать для определения валюты страны, полной информации о стране и информации о языке конкретной страны:
 3. Коллекция Postman для petstore: SOAP
