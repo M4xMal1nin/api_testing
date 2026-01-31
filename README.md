@@ -3,7 +3,7 @@
 
 Я протестировал все методы, которые предусмотрены для [<a href="https://petstore.swagger.io/">Petstore</a>](#) в Postman, и создал соответствующие коллекции:
 
-1. Коллекция Postman для petstore: [<a href="">REST</a>](#)
+1. Коллекция Postman для petstore: [<a href="https://www.postman.com/maxmalinin-6033537/max-malinin/collection/46380886-0adde2d5-d8fd-4ab3-983e-9b02120d6f97?action=share&source=copy-link&creator=46380886">REST</a>](#)
 
 
 Используя следующий [<a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a>](#) я создал рабочую коллекцию в Postman, которую можно использовать для определения валюты страны, полной информации о стране и информации о языке конкретной страны:
